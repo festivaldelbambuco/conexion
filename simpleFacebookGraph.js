@@ -2,7 +2,7 @@ var fb = {
   config :{
   // CONFIG VARS: 
 
-    app_id : '184098739134', 
+    app_id : '763677260399419', 
 
     use_xfbml : true,
 
